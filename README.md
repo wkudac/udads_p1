@@ -17,7 +17,7 @@ For the beginning only descriptive statistics techniques are used to exploit the
 ## File Descriptions 
 There is one Jupyter Notebook which contains all the coding. The data used (s.below) is copied locally in a folder called data.  
 
-## Licence
+## Licence, Acknowledgement 
 The following data sources are used: 
 1. Stackoverflow Survey 2017 
    [(data link)]( https://www.kaggle.com/stackoverflow/so-survey-2017/data)
