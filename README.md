@@ -16,6 +16,7 @@ For the beginning only descriptive statistics techniques are used to exploit the
 
 ## File Descriptions 
 There is one Jupyter Notebook which contains all the coding ("stov_survey.ipynb"). The data used (s.below) is copied locally in a folder called data.  
+A more verbal description can be found in the following [(blog post)](https://medium.com/@wkudac/stackoverflow-survey-2017-where-are-you-f802d450fa1).
 
 ## Licence, Acknowledgement 
 The following data sources are used: 
