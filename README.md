@@ -1,4 +1,4 @@
-# Stackoverlow Survey 2017 Studies
+# Stackoverlow Survey 2017 - Where are You?
 
 ## Introduction 
 Stackoverflow is a public platform where developers can ask questions for and get answers to their coding issues. Annually they make a survey about topics around developing code but additionally about the work situation. The data collected in the 2017 survey contains about 51.000 responses for more than 150 questions, one of them are the countries and the gender of the participants.  The country was given by everybody, but the gender only by about 2/3 (69,2%). 
@@ -15,7 +15,7 @@ For the beginning only descriptive statistics techniques are used to exploit the
 
 
 ## File Descriptions 
-There is one Jupyter Notebook which contains all the coding. The data used (s.below) is copied locally in a folder called data.  
+There is one Jupyter Notebook which contains all the coding ("stov_survey.ipynb"). The data used (s.below) is copied locally in a folder called data.  
 
 ## Licence, Acknowledgement 
 The following data sources are used: 
