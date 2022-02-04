@@ -7,9 +7,9 @@ Stackoverflow is a public platform where developers can ask questions for and ge
 Despite of the lower return rate of the gender, the gender feature will be part of the study. The main focus lies on the gender and the country issues whether common assumptions about the developer world could be confirmed by the survey of a developer community. 
 Besides of the Stackoverflow survey data, data about the gross domestic product (gdp) from the world bank for the countries and a file from which the continent of a country is extracted are used to enrich the data set. 
 
-1.	Is there really a gender gap in the community and how big is the gap? 
-2.	What is the influence of the gdp linked by the country of origin on the gender gap? 
-3.	How is the country and gdp distribution of the community members? 
+1.	What is the influence of the gdp on the participation on the survey? 
+2.	Is there really a gender gap in the community and how big is the gap?
+3.	How is the country and continent distribution of the community members? 
 
 For the beginning only descriptive statistics techniques are used to exploit the data. It would be interesting to know how the development of the community over the years will happen regarding the addressed topics. 
 
